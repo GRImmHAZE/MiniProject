@@ -15,13 +15,13 @@ This site is a home page for my portfolio. It is the first independent project f
 
 ~change directory to Desktop
 
-~copy 
+~copy https://github.com/GRImmHAZE/MiniProject/blob/main/Mini%20Project/
 
 ~use git clone and paste that link after it to clone the repository
 
 ~open the folder it provides
 
-~open the HTML folder inside
+~open the HTML folder inside https://github.com/GRImmHAZE/MiniProject/blob/main/Mini%20Project/PortFolio.html
 
 Known Bugs-:
 
