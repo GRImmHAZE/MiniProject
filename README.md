@@ -23,4 +23,4 @@ Contact Details-:
 email: as99561878@gmail.com
 
 Technologies Used-:
-HTML CSS Bootstrap
+HTML, CSS, Bootstrap
